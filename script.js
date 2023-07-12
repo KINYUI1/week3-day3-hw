@@ -138,15 +138,15 @@ class SavingsAccount extends BankAccount{
 // UNCOMMENT THE CODE BELLOW TO SEE HOW IT WORKS.
 
 
-const account = new BankAccount();
-account.deposit(10000);
-account.withdraw(4000);
-console.log(account);
+// const account = new BankAccount();
+// account.deposit(10000);
+// account.withdraw(4000);
+// console.log(account);
 
 
-const checkAccount = new CheckingAccount();
-checkAccount.withdraw(3000)
-console.log(checkAccount);
+// const checkAccount = new CheckingAccount();
+// checkAccount.withdraw(3000)
+// console.log(checkAccount);
 
-const sAccount = new SavingsAccount('cle',7887,6667);
-sAccount.withdraw();
+// const sAccount = new SavingsAccount('cle',7887,6667);
+// sAccount.withdraw();
